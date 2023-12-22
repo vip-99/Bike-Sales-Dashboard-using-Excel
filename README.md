@@ -41,6 +41,6 @@ Key Insight :
 
 
 
-Conclusion
+Conclusion:-
 To improve a company determine their target customers based on various factors such as income, age, distance, martial status, 
 region, education, occupation  more. Additionally, it can provide a basis for developing new strategies to improve the marketing and overall sales of bikes.
